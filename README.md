@@ -17,7 +17,7 @@ images/
 
 ## 🚀 Live Demo
 
-* **Live Website:** https://your-username.github.io/frontend-chess-design/
+* **Live Website:** https://frontend-chess-design.vercel.app/
 * **GitHub Repository:** https://github.com/asad-developer99/frontend-chess-design
 
 ## ✨ Features
